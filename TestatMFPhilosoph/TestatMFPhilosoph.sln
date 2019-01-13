@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestatMFPhilosoph", "TestatMFPhilosoph\TestatMFPhilosoph.csproj", "{827FD05D-BE7E-4E69-8DCC-F3B7D23046DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestatMFPhiliosophTests", "TestatMFPhiliosophTests\TestatMFPhiliosophTests.csproj", "{CA9E0087-8244-4DE6-A6C4-5DAFAED87A04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{827FD05D-BE7E-4E69-8DCC-F3B7D23046DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{827FD05D-BE7E-4E69-8DCC-F3B7D23046DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{827FD05D-BE7E-4E69-8DCC-F3B7D23046DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9E0087-8244-4DE6-A6C4-5DAFAED87A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9E0087-8244-4DE6-A6C4-5DAFAED87A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9E0087-8244-4DE6-A6C4-5DAFAED87A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9E0087-8244-4DE6-A6C4-5DAFAED87A04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
